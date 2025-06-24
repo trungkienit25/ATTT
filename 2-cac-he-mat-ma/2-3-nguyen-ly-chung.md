@@ -37,6 +37,7 @@ Vì hệ mật hoàn hảo không khả thi, các hệ thống mật mã trong t
 #### Lý thuyết Shannon (tiếp)
 
 * **Độ dư thừa của ngôn ngữ:** Mọi ngôn ngữ tự nhiên (như tiếng Anh, tiếng Việt) đều có độ dư thừa.  Tức là, dựa vào các ký tự đã biết, ta có thể đoán được ký tự tiếp theo với một xác suất nào đó.  Đây chính là điểm yếu mà các nhà thám mã khai thác để phá các hệ mật mã cổ điển.
+
 * **Khoảng cách Unicity (`u`):** Là độ dài tối thiểu của bản mã mà kẻ tấn công cần thu thập để có thể xác định duy nhất khóa đã được sử dụng.  `u` càng lớn, độ an toàn của hệ mật càng cao.  Công thức tính `u` phụ thuộc vào entropy của khóa và của ngôn ngữ bản rõ. 
 * **Làm thế nào để tăng độ an toàn?** 
     * Tăng kích thước không gian khóa (tăng độ dài khóa).
