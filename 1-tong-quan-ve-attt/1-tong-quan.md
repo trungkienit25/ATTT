@@ -23,7 +23,7 @@ Các cuộc tấn công mạng ngày càng phổ biến và không trừ một t
 Để xây dựng một hệ thống an toàn, chúng ta cần hiểu và cân bằng ba thành phần:
 
 1.  **Chính sách ATANTT (Security Policy):** Một tuyên bố về các mục tiêu và yêu cầu an toàn của hệ thống, định rõ các hành vi được phép/không được phép của chủ thể trên các tài nguyên.
-2.  **Mô hình đe dọa (Threat Model):** Mô tả các mối đe dọa mà kẻ tấn công có thể gây ra cho hệ thống và hậu quả của chúng[cite: 54]. Nó trả lời các câu hỏi: Cái gì cần bảo vệ? [cite: 54], Ai có thể tấn công? [cite: 55], và Hệ thống bị tấn công như thế nào?.
+2.  **Mô hình đe dọa (Threat Model):** Mô tả các mối đe dọa mà kẻ tấn công có thể gây ra cho hệ thống và hậu quả của chúng. Nó trả lời các câu hỏi: Cái gì cần bảo vệ?, Ai có thể tấn công?, và Hệ thống bị tấn công như thế nào?.
 3.  **Cơ chế ATANTT (Security Mechanism):** Các kỹ thuật, thủ tục để thực thi và đảm bảo chính sách được tuân thủ.
 
 ### 1. Mục tiêu ATANTT
